@@ -1,5 +1,5 @@
 ## Приветствую! :wave:
-Я **веб-разработчик** и **веб-дизайнер**
+Я **Веб-разработчик** и **UI/UX Дизайнер**
 ## Я знаю: :mortar_board:
 + &nbsp;![Vue-icon](https://icons-for-free.com/download-icon-vscode+icons+type+vue-1324451518241566316_16.ico "Vue")&nbsp; Немного Vue &nbsp;![20%](https://progress-bar.dev/20)
 + &nbsp;![SASS/SCSS-icon](https://icons-for-free.com/download-icon-vscode+icons+type+sass-1324451479797646865_16.ico "SASS/SCSS")&nbsp; SASS/SCSS
