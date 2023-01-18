@@ -12,6 +12,3 @@
 - [X] &nbsp;![Database-icon](https://icons-for-free.com/download-icon-database+76-131988545497319222_16.ico "Database")&nbsp; Базы данных
 - [X] &nbsp;![PHP-icon](https://icons-for-free.com/download-icon-php+plain-1324760555060951567_16.ico "PHP")&nbsp; PHP
 - [X] &nbsp;![Vue-icon](https://icons-for-free.com/download-icon-vscode+icons+type+vue-1324451518241566316_16.ico "Vue")&nbsp; До конца изучить Vue
-- [ ] &nbsp;:heavy_dollar_sign:&nbsp; Фриланс
-## Мои уточки: :heart:
-![Уточки](./ducks.webp)
