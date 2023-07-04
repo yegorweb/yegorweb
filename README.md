@@ -4,6 +4,14 @@
 15 лет <br />
 На аве мой кот Борис
 
+<details>
+<summary>Show translate</summary>
+I am a Full-Stack Web Developer, UI/UX Designer, Russian Astronomy Prize Winner, Tourist, Qubit Club Member <br />
+I study at Gymnasium No. 8 in Glazov <br />
+15 years <br />
+My cat Boris is on the avatar
+</details>
+
 ## Знания: :mortar_board:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -32,11 +40,11 @@
 ![Топ языков в моих проектах](https://github-readme-stats.vercel.app/api/top-langs/?username=yegorweb)
 
 ## Сейчас работаю над: :man_technologist:
-+ «Ищу наставника»
++ [«Ищу наставника»](https://github.com/yegorweb/mentor-search)
 + «Афиша»
 
 ## Следующие цели: :triangular_flag_on_post:
-+ Вывести «Ищу наставника» на всероссийский уровень, им должна пользоваться каждая школа России
++ Вывести [«Ищу наставника»](https://github.com/yegorweb/mentor-search) на всероссийский уровень, им должна пользоваться каждая школа России
 + Начать преподавать уроки веб-разработки у себя в школе
 + MacBook Air 15
 + Сделать «Гараж Гимназии №8»
