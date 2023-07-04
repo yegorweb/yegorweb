@@ -1,7 +1,8 @@
 ## Приветствую! :wave:
 Я Full-Stack Веб-разработчик, UI/UX Дизайнер, призёр России по астрономии, турист, член клуба [Кубит](https://vk.com/qbitclub) <br />
 Учусь в [Гимназии №8 г. Глазов](https://vk.com/school8_glazov) <br />
-15 лет
+15 лет <br />
+На аве мой кот Борис
 
 ## Знания: :mortar_board:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
