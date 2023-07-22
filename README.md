@@ -44,7 +44,7 @@ My cat Boris is on the avatar
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Typst](./typst.svg)
+![Typst](./typst-logo.svg)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=SVG&logoColor=black)
@@ -61,7 +61,7 @@ My cat Boris is on the avatar
 
 ## Следующие цели: :triangular_flag_on_post:
 + Вывести [«Ищу наставника»](https://github.com/yegorweb/mentor-search) на всероссийский уровень, им должна пользоваться каждая школа России
-+ Начать преподавать уроки веб-разработки у себя в школе
++ Начать преподавать уроки веб-разработки у себя в гимназии
 + MacBook Air 15
 + Сделать «Гараж Гимназии №8»
 + Попасть в ОЦ «Сириус», «Артек», «Орлёнок»
