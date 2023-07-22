@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="28" role="img" aria-label="TYPST">
+<title>Typst</title>
+<defs>
+  <linearGradient id="0" x1="0.02" y1="0.64" x2="0.98" y2="0.36">
+    <stop offset="0%" stop-color="#3c98bb"/>
+    <stop offset="100%" stop-color="#22b6bd"/>
+  </linearGradient>
+</defs>
+<g shape-rendering="crispEdges"><rect width="58" height="28" fill="url(#0)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="4" y="7" width="50" height="16" xlink:href="./typst-full-logo.png"/></g></svg>
