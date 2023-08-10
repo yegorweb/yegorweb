@@ -58,6 +58,7 @@ My cat Boris is on the avatar
 ## Сейчас работаю над: :man_technologist:
 + [«Ищу наставника»](https://github.com/yegorweb/mentor-search)
 + «Афиша»
++ Образовательный контент для колледжа
 
 ## Следующие цели: :triangular_flag_on_post:
 + Вывести [«Ищу наставника»](https://github.com/yegorweb/mentor-search) на всероссийский уровень, им должна пользоваться каждая школа России
