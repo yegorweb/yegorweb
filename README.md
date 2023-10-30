@@ -1,4 +1,4 @@
-## Приветствую! :wave:
+## Привет! :wave:
 Я Full-Stack Веб-разработчик, UI/UX Дизайнер, призёр России по астрономии, турист, член [клуба Кубит <img src="./QBit.png" height="16" alt="Логотип Кубита" /> ](https://vk.com/qbitclub) <br />
 Учусь в [<img src="gym.jpg" height="16" alt="Герб Гимназии" /> Гимназии №8 г. Глазов](https://vk.com/school8_glazov) <br />
 15 лет <br />
