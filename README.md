@@ -1,18 +1,19 @@
 ## Привет! :wave:
-Я Full-Stack Веб-разработчик, UI/UX Дизайнер, призёр России по астрономии, турист, член [клуба Кубит <img src="./QBit.png" height="16" alt="Логотип Кубита" /> ](https://vk.com/qbitclub) <br />
+Я Full-Stack веб-разработчик, UI/UX Дизайнер, турист, член [клуба Кубит <img src="./QBit.png" height="16" alt="Логотип Кубита" /> ](https://vk.com/qbitclub) <br />
 Учусь в [<img src="gym.jpg" height="16" alt="Герб Гимназии" /> Гимназии №8 г. Глазов](https://vk.com/school8_glazov) <br />
 16 лет <br />
 На аве мой кот Борис
 
 <details>
 <summary>Show translate</summary>
-I am a Full-Stack Web Developer, UI/UX Designer, Russian Astronomy Prize Winner, Tourist, Qubit Club Member <br />
+I am a Full-Stack Web Developer, UI/UX Designer Tourist, Qubit Club Member <br />
 I study at Gymnasium No. 8 in Glazov <br />
 16 y. o. <br />
 My cat Boris is on the avatar
 </details>
 
 ## Знания: :mortar_board:
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,7 +21,6 @@ My cat Boris is on the avatar
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Nest](https://img.shields.io/badge/Nest-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -60,12 +60,12 @@ My cat Boris is on the avatar
 
 ## Сейчас работаю над: :man_technologist:
 + [«Ищу наставника»](https://github.com/yegorweb/mentor-search)
-+ «Афиша»
-+ Образовательный контент для колледжа
++ «Place Of Posters»
++ «МойМаркет»
 
 ## Следующие цели: :triangular_flag_on_post:
-+ Вывести [«Ищу наставника»](https://github.com/yegorweb/mentor-search) на всероссийский уровень, им должна пользоваться каждая школа России
-+ Начать преподавать уроки веб-разработки у себя в гимназии
++ Вывести [«Ищу наставника»](https://github.com/yegorweb/mentor-search) на всероссийский уровень
++ Начать преподавать веб-разработку
 + MacBook Pro 14
-+ Сделать «Гараж Гимназии №8»
-+ Попасть в ОЦ «Сириус», «Артек»
++ «Гараж Гимназии №8»
++ Попасть в «Сириус», «Артек»
