@@ -60,7 +60,7 @@ My cat Boris is on the avatar
 
 ## Сейчас работаю над: :man_technologist:
 + [«Ищу наставника»](https://github.com/yegorweb/mentor-search)
-+ «Place Of Posters»
++ «Place of posters»
 + «МойМаркет»
 
 ## Следующие цели: :triangular_flag_on_post:
