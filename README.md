@@ -1,3 +1,4 @@
+## Привет
 Я Full-Stack веб-разработчик, UI/UX Дизайнер, член [клуба Кубит <img src="./QBit.png" height="16" alt="Логотип Кубита" /> ](https://vk.com/qbitclub) <br />
 Учусь в [<img src="gym.jpg" height="16" alt="Герб Гимназии" /> Гимназии №8 г. Глазов](https://vk.com/school8_glazov) <br />
 16 лет <br />
