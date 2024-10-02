@@ -43,10 +43,7 @@ My cat Boris is on the avatar
 ![Топ языков в моих проектах](https://github-readme-stats.vercel.app/api/top-langs/?username=yegorweb)
 
 ## Сейчас работаю над
-+ «Ищу наставника»
-+ Города и веси
++ ничем
 
 ## Следующие цели
 + MacBook Pro 14
-+ «Гараж Гимназии №8»
-+ Попасть в Сириус
