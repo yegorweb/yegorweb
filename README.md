@@ -1,12 +1,12 @@
 ## Привет
-Я Full-Stack веб-разработчик, UI/UX Дизайнер, член [клуба Кубит <img src="./QBit.png" height="16" alt="Логотип Кубита" /> ](https://vk.com/qbitclub) <br />
+Я Full-Stack веб-разработчик, UI/UX Дизайнер <br />
 Учусь в [Гимназии №8 г. Глазов](https://vk.com/school8_glazov) <br />
 16 лет <br />
 На аве мой кот Борис
 
 <details>
 <summary>Show translate</summary>
-I am a Full-Stack Web Developer, UI/UX Designer, Qubit Club Member <br />
+I am a Full-Stack Web Developer, UI/UX Designer <br />
 I study at Gymnasium No. 8 in Glazov <br />
 16 y. o. <br />
 My cat Boris is on the avatar
