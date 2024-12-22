@@ -38,4 +38,4 @@ My cat Boris is on the avatar
 + секретным стартапом
 
 ## Следующие цели
-+ MacBook Pro 14
++ выжить
