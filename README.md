@@ -1,12 +1,12 @@
 ## Привет
-Я Full-Stack веб-разработчик, UI/UX Дизайнер <br />
-Учусь в [Гимназии №8 г. Глазов](https://vk.com/school8_glazov) <br />
+Я Full-Stack веб-разработчик, UI/UX дизайнер <br />
+Учусь в Гимназии №8 г. Глазов <br />
 17 лет <br />
 На аве мой кот Борис
 
 <details>
 <summary>Show translate</summary>
-I am a Full-Stack Web Developer, UI/UX Designer <br />
+I am a Full-Stack Web Developer, UI/UX designer <br />
 I study at Gymnasium No. 8 in Glazov <br />
 17 y. o. <br />
 My cat Boris is on the avatar
