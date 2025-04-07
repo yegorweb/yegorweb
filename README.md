@@ -12,7 +12,7 @@ I study at Gymnasium No. 8 in Glazov <br />
 My cat Boris is on the avatar
 </details>
 
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-gray?style=for-the-badge&logo=Nuxt)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
