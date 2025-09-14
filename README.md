@@ -49,13 +49,13 @@
 ######
 
 <div align="center">
-<img style="margin: auto" src="https://github-readme-stats.vercel.app/api?username=yegorweb&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+<img style="margin: auto" src="https://github-readme-stats.vercel.app/api?username=yegorweb&theme=cobalt&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </div>
 
 ######
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yegorweb">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yegorweb&theme=cobalt&hide_border=true&layout=compact&count_private=true&locale=ru">
 </div>
 
 
