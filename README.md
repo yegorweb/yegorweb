@@ -14,7 +14,6 @@
 <img height="40" src="https://skillicons.dev/icons?i=tauri" alt="Tauri" />
 <img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=sass" alt="SASS" />
-<img width="12" />
 </div>
 
 ######
@@ -43,7 +42,6 @@
 <img height="40" src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" />
 <img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-<img width="12" />
 </div>
 
 ######
