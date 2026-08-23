@@ -41,7 +41,7 @@
 <img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" />
 <img width="12" />
-<img height="40" src="https://skillicons.dev/icons?i=latex" alt="Typst" />
+<img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/typst-badge.svg" alt="Typst" />
 <img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
 <img width="12" />
@@ -52,5 +52,5 @@
 
 
 ## Сейчас работаю над
-+ <a href="https://formtomail.ru" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=figma" alt="FormToMail"></a>
++ <a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a>
 
