@@ -52,5 +52,5 @@
 
 
 ## Сейчас работаю над
-+ <a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a>
+<a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a>
 
