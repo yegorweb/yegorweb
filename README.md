@@ -23,7 +23,7 @@
 <img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=express" alt="Express" />
 <img width="12" />
-<img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node" />
+<img height="40" src="https://skillicons.dev/icons?i=js" alt="Node" />
 <img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 <img width="12" />
@@ -41,6 +41,10 @@
 <img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" />
 <img width="12" />
+<img height="40" src="https://skillicons.dev/icons?i=latex" alt="Typst" />
+<img width="12" />
+<img height="40" src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
+<img width="12" />
 <img height="40" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </div>
 
@@ -48,5 +52,5 @@
 
 
 ## Сейчас работаю над
-+ [FormToMail](https://formtomail.ru)
++ <a href="https://formtomail.ru" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=figma" alt="FormToMail"></a>
 
