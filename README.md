@@ -50,11 +50,26 @@
 
 ######
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-dark.svg">
   <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-light.svg" width="450" alt="GitHub stats">
 </picture>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/languages-light.svg" width="450" alt="GitHub stats">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/contributions-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/weekly-light.svg" width="450" alt="GitHub stats">
+</picture>
+</p>
 
 ## Сейчас работаю над
 <a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a>
