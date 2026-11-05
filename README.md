@@ -50,6 +50,11 @@
 
 ######
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+
 
 ## Сейчас работаю над
 <a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a>
