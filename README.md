@@ -74,5 +74,5 @@
 ###### 
 
 ## <p align="center">I'm currently working on</p>
-<a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a>
+<a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a><img width="12" /><a href="https://gorkycode.ru/" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/gorkycode.svg" alt="GorkyCode"></a>
 
