@@ -1,5 +1,3 @@
-## <p align="center">Full-Stack Web-developer</p>
-
 <div align="center">
 <img height="40" src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" />
 <img width="12" />
@@ -73,6 +71,8 @@
 </p>
 <!-- cool-readme:end -->
 
-## Сейчас работаю над
+###### 
+
+## <p align="center">Сейчас работаю над</p>
 <a href="https://formtomail.ru" target="_blank"><img height="40" src="https://github.com/yegorweb/yegorweb/raw/refs/heads/main/formtomailgithub.svg" alt="FormToMail"></a>
 
