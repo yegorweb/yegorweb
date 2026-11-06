@@ -9,14 +9,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: update-readme-cards
-  cancel-in-progress: false
-
-env:
-  USERNAME: yegorweb
-  MAIN_BRANCH: ${{ github.event.repository.default_branch }}
-
 jobs:
   cards:
     runs-on: ubuntu-latest
@@ -27,50 +19,19 @@ jobs:
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards
-      - name: Publish versioned cards
-        id: publish
+      # The cards live on their own branch, as a single commit replaced on each change, so they
+      # don't add to the history of your main branch.
+      - name: Publish the cards on the cards branch
         run: |
-          timestamp="$(date -u +%Y%m%d%H%M%S)"
-          echo "timestamp=$timestamp" >> "$GITHUB_OUTPUT"
-          for card in "$RUNNER_TEMP"/cards/*.svg; do
-            filename="$(basename "$card" .svg)"
-            cp "$card" "$RUNNER_TEMP/${filename}-${timestamp}.svg"
-          done
-
           git fetch --quiet --depth 1 origin cards:refs/remotes/origin/cards 2>/dev/null || true # not there on the first run
           git switch --quiet --orphan cards
-          cp "$RUNNER_TEMP"/*-"$timestamp".svg .
+          cp "$RUNNER_TEMP"/cards/*.svg .
           git add -- *.svg
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit --quiet -m 'Update README cards'
+          if git rev-parse --quiet --verify origin/cards >/dev/null && git diff --quiet origin/cards HEAD; then
+            echo "No changes"
+            exit 0
+          fi
           git push --force origin cards
-      - name: Update README on the default branch
-        env:
-          CARD_TIMESTAMP: ${{ steps.publish.outputs.timestamp }}
-        run: |
-          git fetch --quiet origin "$MAIN_BRANCH"
-          git switch --quiet --force-create "$MAIN_BRANCH" "origin/$MAIN_BRANCH"
-
-          python - <<'PY'
-          import os
-          from pathlib import Path
-
-          username = os.environ["USERNAME"]
-          timestamp = os.environ["CARD_TIMESTAMP"]
-          template = Path("README-TEMPLATE.md").read_text(encoding="utf-8")
-
-          for card in ("SUMMARY", "LANGUAGES", "CONTRIBUTIONS", "WEEKLY"):
-              for theme in ("DARK", "LIGHT"):
-                  name = f"{card.lower()}-{theme.lower()}-{timestamp}.svg"
-                  url = f"https://raw.githubusercontent.com/{username}/{username}/cards/{name}"
-                  template = template.replace(f"{{{{{card}_{theme}}}}}", url)
-
-          Path("README.md").write_text(template, encoding="utf-8")
-          PY
-
-          git add -- README.md
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit --quiet -m 'Update README cards'
-          git push origin "$MAIN_BRANCH"
