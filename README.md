@@ -51,22 +51,22 @@
 <!-- cool-readme:start -->
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-light.svg" width="450" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-dark-20261106214252.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/summary-light-20261106214252.svg" width="450" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/languages-light.svg" width="350" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/languages-dark-20261106214252.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/languages-light-20261106214252.svg" width="350" alt="Most used languages">
 </picture>
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/contributions-light.svg" width="450" alt="Notable contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/contributions-dark-20261106214252.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/contributions-light-20261106214252.svg" width="450" alt="Notable contributions">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/weekly-dark-20261106214252.svg">
+  <img src="https://raw.githubusercontent.com/yegorweb/yegorweb/cards/weekly-light-20261106214252.svg" width="350" alt="Weekly rhythm">
 </picture>
 </p>
 <!-- cool-readme:end -->
